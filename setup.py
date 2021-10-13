@@ -15,7 +15,7 @@ setuptools.setup(
     packages=setuptools.find_packages(), # A list of all packages for Python to distribute!
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: GNU LESSER GENERAL PUBLIC LICENSE",
         "Operating System :: OS Independent",
     ], # Enter meta data into the classifiers list!
     python_requires='>=3.6', # The version requirement for Python to run your package!
